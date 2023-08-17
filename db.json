@@ -1,0 +1,30 @@
+{
+  "posts":[
+    {
+      "id" : 0,
+      "title": "First post!",
+      "content" : "My first content!"
+    }
+  ],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ],
+  "login" : [
+    {
+      "id": 0,
+      "username": "Kor Trial 01",
+      "password": "1qaz!QAZ",
+      "access":"Superb Admin"
+    },
+    {
+      "id": 1,
+      "username": "Kor Trial 02",
+      "password": "1qaz!QAZ",
+      "access":"Admin"
+    }
+  ]
+}
